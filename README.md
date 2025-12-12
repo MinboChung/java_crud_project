@@ -2,4 +2,4 @@
 
 Contents to be updated.
 
-Applying for Java engineer in spartaclub bootcamp
+Applying for Java engineering curriculum in spartaclub bootcamp
